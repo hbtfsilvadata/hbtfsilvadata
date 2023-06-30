@@ -19,17 +19,15 @@ Em 2020 migrei do setor Financeiro/Administrativo para a área da TI, me graduei
 
 ### Conhecimento em algumas ferramentas
 
-✅ Power BI * Tableau * Spark * Hadoop * Excel * Pentaho * Google Colab * Jupiter * Automate * Power APPS * Sharepoint * Git * IBM InfoSphere DataStage * SQL Server * DB2 * Access <br/>
+✅ Power BI * Tableau * Spark * Hadoop * Excel * Pentaho * Google Colab * Jupiter * Power Automate * Power APPS * Sharepoint * Git * IBM InfoSphere DataStage * SQL Server * DB2 * Access <br/>
 
 <br/>📚 Estudando Python, Machine Learning e IA.
-<br/>👷 Tenho interesse em desenvolver soluções inteligentes e de participar de projetos de Ciência de Dados.
+<br/>👷 Um dos meus objetivos é de desenvolver soluções inteligentes.
 
 
 
 <br/><br/>O importante não é vencer todos os dias, mas lutar sempre.
 <br/>Waldemar Valle Martins 
-
-
 
 <!---
 hbtfsilvadata/hbtfsilvadata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
