@@ -3,7 +3,6 @@
 ### Redes Sociais
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herbert-f-silva-33567153/)<br/>
-
 <br/><br/>O importante não é vencer todos os dias, mas lutar sempre.
 <br/>Waldemar Valle Martins 
 
